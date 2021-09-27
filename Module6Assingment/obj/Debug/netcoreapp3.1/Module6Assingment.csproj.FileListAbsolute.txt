@@ -1,0 +1,13 @@
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\bin\Debug\netcoreapp3.1\Module6Assingment.exe
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\bin\Debug\netcoreapp3.1\Module6Assingment.deps.json
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\bin\Debug\netcoreapp3.1\Module6Assingment.runtimeconfig.json
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\bin\Debug\netcoreapp3.1\Module6Assingment.runtimeconfig.dev.json
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\bin\Debug\netcoreapp3.1\Module6Assingment.dll
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\bin\Debug\netcoreapp3.1\Module6Assingment.pdb
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\obj\Debug\netcoreapp3.1\Module6Assingment.csprojAssemblyReference.cache
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\obj\Debug\netcoreapp3.1\Module6Assingment.AssemblyInfoInputs.cache
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\obj\Debug\netcoreapp3.1\Module6Assingment.AssemblyInfo.cs
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\obj\Debug\netcoreapp3.1\Module6Assingment.csproj.CoreCompileInputs.cache
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\obj\Debug\netcoreapp3.1\Module6Assingment.dll
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\obj\Debug\netcoreapp3.1\Module6Assingment.pdb
+C:\Users\local-stephen\RiderProjects\Module6Assingment\Module6Assingment\obj\Debug\netcoreapp3.1\Module6Assingment.genruntimeconfig.cache
